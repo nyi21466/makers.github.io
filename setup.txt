@@ -1,0 +1,21 @@
+npm start
+npm install -------
+
+cmd
+ipconfig
+IPv4 Address. . . . . . . . . . . : 172.20.10.4
+
+npm start -- --host 0.0.0.0
+
+http://172.20.10.4:3000
+
+loclx tunnel http --to localhost:3000
+npm start
+
+loclx tunnel http --to localhost:3000 --subdomain makers
+
+control c and y
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+Get-ExecutionPolicy -List 
+

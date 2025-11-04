@@ -1,0 +1,11 @@
+body {
+  background: #fafafa;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+video, canvas {
+  display: block;
+  margin: 0 auto;
+}
