@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/makers.github.io/static/css/main.56c00367.css",
+    "main.js": "/makers.github.io/static/js/main.0626cd5b.js",
+    "index.html": "/makers.github.io/index.html",
+    "main.56c00367.css.map": "/makers.github.io/static/css/main.56c00367.css.map",
+    "main.0626cd5b.js.map": "/makers.github.io/static/js/main.0626cd5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56c00367.css",
+    "static/js/main.0626cd5b.js"
+  ]
+}
